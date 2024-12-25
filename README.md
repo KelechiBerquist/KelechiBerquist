@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @KelechiBerquist
-- 👀 I’m interested in devops, data analysis, and backend development
-- 🌱 I’m currently learning Terraform, Jenkins, distributed microservices with tracing
-- 💞️ I’m looking to collaborate on data analysis, devops, and fullstack (frontend and backend) development
-- 📫 How to reach me linkedin.com/in/kae-berquist
+- 👀 On my path to becoming a jane of all trades and master of ALL, I am currently deepening my expertise in cloud engineering, data engineering, and web application development.
+- 📫 If you are looking to collaborate on any of the above, please reach out at linkedin.com/in/kae-berquist.
+- Merci beaucoup.
 
 <!---
 KelechiBerquist/KelechiBerquist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
